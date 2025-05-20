@@ -7,3 +7,5 @@ P
  contracts/budget-allocation.clar,5/7/5784b0e767cfd4030c0cc9779e3cf81b27c3c1c2
 R
 "contracts/performance-metrics.clar,c/5/c5d55d5701117c7c6ebf261944852c9d70f7958d
+P
+ contracts/public-disclosure.clar,5/7/571da7659628a44019c268bce5facb3c420488c6
